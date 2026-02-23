@@ -1,11 +1,8 @@
-## Hi there 👋
 # Hi 👋, I'm Catherin Maria Jacob
 
 🎓 B.Tech CSE Student – CUSAT  
 🏆 Hackathon Winner | Backend & AI Enthusiast  
 🌍 Building scalable systems with AI, Geospatial & Data-driven validation engines  
-
-[Email](mailto:catherin.mariaj@gmail.com) • [GitHub](https://github.com/Catherin-j)
 
 ---
 
@@ -94,8 +91,12 @@ Coding Lab Management System
 
 ---
 
+---
+
 ## 📫 Connect With Me
 
-Email: catherin.mariaj@gmail.com  
-Phone:+91 9539484828  
-Github: https://github.com/Catherin-j
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherin-maria-jacob-990902312/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Catherin-j)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:catherin.mariaj@gmail.com)
+
+📱 **Phone:** +91 9539484828
