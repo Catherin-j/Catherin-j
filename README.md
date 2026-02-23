@@ -50,7 +50,7 @@ Agri Plot Validation & Fraud Detection System
 
 ## 💻 Other Project – CodeVista
 
-Coding Lab Management System (Mini Project)
+Coding Lab Management System 
 
 - Built role-based lab management platform using **Next.js**.
 - Implemented assignment creation & submission workflows.
@@ -96,6 +96,6 @@ Coding Lab Management System (Mini Project)
 
 ## 📫 Connect With Me
 
-📧 catherin.mariaj@gmail.com  
-📱 +91 9539484828  
-💻 https://github.com/Catherin-j
+Email: catherin.mariaj@gmail.com  
+Phone:+91 9539484828  
+Github: https://github.com/Catherin-j
